@@ -95,3 +95,7 @@ Planned enhancements for future versions include:
 - 🧍 **Character Customization** – Adjustable player appearance and stats  
 - 🎧 **Audio Integration** – Ambient sounds and commentary  
 - 🕹️ **VR or Motion Capture Support** – For immersive training experiences  
+
+---
+
+This project was completed as part of my studies at the Technical University of Cluj-Napoca (UTCN) 🎓.
